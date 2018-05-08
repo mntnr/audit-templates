@@ -1,3 +1,5 @@
+:wave: Hey there! This is the developer experience audit from @mntnr for this repository. I've added in my thoughts below, in the form of a checklist. Looking forward to seeing what you think; let's see if we can resolve all of the open issues and make this repository shine ✨ 💖 ✨ 
+
 # Repository Review: REPONAME
 
 > DESCRIPTION
