@@ -52,8 +52,7 @@ _For notes on anything crossed out, look below. Note: I use `[ ]` to mean that I
 _Note: Neither of these are necessary, but they can help with some things. Check out https://probot.github.io/ for some tools._
 
 - [ ] Are there bots enabled?
-- [ ] Is there a CLA?
-  - [ ] Is there a bot to help with the CLA?
+- [ ] Are the bots listed in the Contribute or Readme files so that users can expect to interact with them?
 
 ### Metadata
 - [ ] Is there a description on GitHub?
