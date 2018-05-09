@@ -45,7 +45,7 @@ _For notes on anything crossed out, look below. Note: I use `[ ]` to mean that I
 - [ ] Are an acceptable amount of issues less than six months old?
 - [ ] Are there useful issue labels?
 - [ ] Are the labels being used?
-- [ ] Is there a `good for beginners`, `good first issue`, or `up-for-grabs` label?
+- [ ] Is there a `good for beginners` or `good first issue` label?
 - [ ] Is there a `waiting on contributor` label?
 
 ### Bots
@@ -89,7 +89,7 @@ _Write a note here_
 
 #### Issues
 - [ ] Add 'discussion' labels to longstanding issues. I think your 'pinned' label does this, though.
-- [ ] Considering adding `up-for-grabs` as well as `good first issue`. See http://up-for-grabs.net. This will help more people interact with your code, and lead to small, iterative work done by others. It may take some time to set up initially - thinking of scoped issues - but the payback should be worth it.
+- [ ] Considering adding `available` labels as well as `good first issue`. These can be used to signal that you're looking for community involvement for issues. They can also be configured to display on http://up-for-grabs.net. This will help more people interact with your code, and lead to small, iterative work done by others. It may take some time to set up initially - properly scoping issues for newcomers takes some time - but the payback should be worth it.
 - [ ] I label pull requests where I am waiting on the Contributor to respond `waiting on contributor`. This helps alleviate pressure on you to close them.
 
 ## Contribute back?
