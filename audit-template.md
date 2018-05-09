@@ -31,6 +31,7 @@ _For notes on anything crossed out, look below. Note: I use `[ ]` to mean that I
   - [ ] Does it specify where to ask questions on process?
   - [ ] Does it explain labels used in the issues?
 - [ ] Is there a `CHANGELOG`?
+  - [ ] If there isn't, are notes included in the project's releases?
 - [ ] Does this pass [`alex`](https://github.com/wooorm/alex) adequately? Run `alex *.md`.
 - [ ] Does the repository name itself pass on http://wordsafety.com?
 
