@@ -7,8 +7,4 @@ if (process.argv.length < 3 || !process.argv.every(val => val.match(/(--help|-h)
   process.exit(1)
 }
 
-if (process.argv[0] === 'audit-templates') {
-  fn(process.argv[1], process.arg[2])
-} else {
-  fn(process.argv[2], process.argv[3])
-}
+fn(process.argv[2], process.argv[3])
