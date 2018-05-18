@@ -88,7 +88,7 @@ _Write a note here_
 - [ ] This audit does _not_ cover license dependency. For that, I suggest using either [licensee](https://github.com/jslicense/licensee.js) or an external tool like [Fossa](https://fossa.io/). Let me know if you want more help here.
 
 #### Issues
-- [ ] Add 'discussion' labels to longstanding issues. I think your 'pinned' label does this, though.
+- [ ] Add 'discussion' labels to longstanding issues.
 - [ ] Considering adding `available` labels as well as `good first issue`. These can be used to signal that you're looking for community involvement for issues. They can also be configured to display on http://up-for-grabs.net. This will help more people interact with your code, and lead to small, iterative work done by others. It may take some time to set up initially - properly scoping issues for newcomers takes some time - but the payback should be worth it.
 - [ ] I label pull requests where I am waiting on the Contributor to respond `waiting on contributor`. This helps alleviate pressure on you to close them.
 
