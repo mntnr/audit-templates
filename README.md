@@ -1,6 +1,9 @@
 # Audit Templates
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/mntnr/audit-templates.svg)](https://greenkeeper.io/)
+[![Build Status](https://api.travis-ci.org/mntnr/audit-templates.svg?branch=master)](https://travis-ci.org/mntnr/audit-templates)
+
+
 
 > 🏔 Auditing templates used by Maintainer Mountaineer!
 
