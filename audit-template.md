@@ -11,7 +11,7 @@ _For notes on anything crossed out, look below. Note: I use `[ ]` to mean that I
 - [ ] Is there a README?
   - [ ] Does it follow [standard-readme](https://github.com/RichardLitt/standard-readme)?
   - [ ] Is it spellchecked?
-- [ ] Is there a Code of Conduct, such as the [Contributor Covenant](https://github.com/simonv3/covgen)?
+- [ ] Is there a Code of Conduct, such as the [Contributor Covenant](https://github.com/simonv3/covenant-generator)?
   - [ ] Is it mentioned in the Contribute section of the README? (Note: this isn't needed if you mention it in your CONTRIBUTE.md and it is in this repository.)
   - [ ] Does it reference an email address for violations?
   - [ ] Does it reference a second email address?
