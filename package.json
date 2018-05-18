@@ -3,7 +3,7 @@
   "name": "audit-templates",
   "description": "🏔 Auditing templates used by Maintainer Mountaineer!",
   "homepage": "https://github.com/mntnr/audit-templates",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/mntnr/audit-templates.git"
