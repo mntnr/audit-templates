@@ -1,7 +1,8 @@
 const fs = require('mz/fs')
 const ghDescription = require('gh-description')
 const mkdirp = require('mkdirp-promise')
-const getDirName = require('path').dirname
+const path = require('path')
+const getDirName = path.dirname
 
 module.exports = async function download (repoName, dest) {
   if (!repoName) {
@@ -10,7 +11,7 @@ module.exports = async function download (repoName, dest) {
 
   dest = dest || `${repoName.split('/')[1]}-audit.md`
 
-  await fs.readFile('audit-template.md').then(async res => {
+  await fs.readFile(path.join(__dirname, 'audit-template.md')).then(async res => {
     console.log('Replacing repo name and description...')
 
     let description = await ghDescription(repoName).then(async res => {
