@@ -1,8 +1,8 @@
-:wave: Hey there! This is the developer experience audit from @mntnr for this repository. I've added in my thoughts below, in the form of a checklist. Looking forward to seeing what you think; let's see if we can resolve all of the open issues and make this repository shine ✨ 💖 ✨
+:wave: Hey there! This is the developer experience audit from @mntnr for this repository. I've added in my thoughts below, in the form of a checklist. Looking forward to seeing what you think; let's see if we can resolve all of the open issues and make this repository shine ✨ 💖 ✨ 
 
-# Repository Review: [INSERT REPONAME]
+# Repository Review: mntnr/audit-templates
 
-> [INSERT DESCRIPTION]
+>       🏔 Auditing templates used by Maintainer Mountaineer!
 
 _For notes on anything crossed out, look below. Note: I use `[ ]` to mean that I have proposed a fix in a PR. I know it doesn't render properly in Markdown, but it works pretty well otherwise for that purpose. If I think that something is fine, even if it isn't valid according to this checklist, I've checked it off and included a note._
 

@@ -1,0 +1,40 @@
+{
+  "author": "Richard Littauer",
+  "name": "audit-templates",
+  "description": "🏔 Auditing templates used by Maintainer Mountaineer!",
+  "homepage": "https://github.com/mntnr/audit-templates",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mntnr/audit-templates.git"
+  },
+  "scripts": {
+    "lint": "standard",
+    "test": "ava test/test.js"
+  },
+  "main": "auditing.js",
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=0.4"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "github",
+    "markdown",
+    "documentation",
+    "audits",
+    "dx"
+  ],
+  "dependencies": {
+    "gh-description": "^0.1.15",
+    "mkdirp-promise": "^5.0.1",
+    "mz": "^2.7.0"
+  },
+  "bugs": "https://github.com/mntnr/audit-templates/issues",
+  "contributors": [
+    "Richard Littauer <richard.littauer@gmail.com>"
+  ]
+}
