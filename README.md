@@ -16,7 +16,7 @@ This will give you a global executable, `audit-templates`.
 
 ## Usage
 
-Provide `audit-templates` with a GitHub repository in the form of `user/reponame` in order to have it print out a template for you. You can also specify where you want it to be breated.
+Provide `audit-templates` with a GitHub repository in the form of `user/reponame` in order to have it print out a template for you. You can also specify where you want it to be created.
 
 ```sh
 $ audit-templates mntnr/audit-templates
