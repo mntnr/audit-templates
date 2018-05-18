@@ -20,7 +20,7 @@ module.exports = async function download (repoName, dest) {
     })
 
     var newContent = res.toString().replace('[INSERT REPONAME]', repoName)
-      .replace('[INSERT DESCRIPTION]', description)
+      .replace('[INSERT GITHUB DESCRIPTION]', description)
 
     await mkdirp(getDirName(dest)).then(async () => {
       fs.writeFile(dest, newContent, 'utf8')
