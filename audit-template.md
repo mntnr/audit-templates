@@ -4,7 +4,7 @@
 
 > [INSERT DESCRIPTION]
 
-_For notes on anything crossed out, look below. Note: I use `[ ]` to mean that I have proposed a fix in a PR. I know it doesn't render properly in Markdown, but it works pretty well otherwise for that purpose. If I think that something is fine, even if it isn't valid according to this checklist, I've checked it off and included a note._
+_For notes on anything crossed out, look below. Note: I use `[~]` to mean that I have proposed a fix in a PR. I know it doesn't render properly in Markdown, but it works pretty well otherwise for that purpose. If I think that something is fine, even if it isn't valid according to this checklist, I've checked it off and included a note._
 
 ### Reviewing the Repository Docs
 
