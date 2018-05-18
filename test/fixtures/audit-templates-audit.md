@@ -1,17 +1,17 @@
-:wave: Hey there! This is the developer experience audit from @mntnr for this repository. I've added in my thoughts below, in the form of a checklist. Looking forward to seeing what you think; let's see if we can resolve all of the open issues and make this repository shine ✨ 💖 ✨ 
+:wave: Hey there! This is the developer experience audit from @mntnr for this repository. I've added in my thoughts below, in the form of a checklist. Looking forward to seeing what you think; let's see if we can resolve all of the open issues and make this repository shine ✨ 💖 ✨
 
 # Repository Review: mntnr/audit-templates
 
 >       🏔 Auditing templates used by Maintainer Mountaineer!
 
-_For notes on anything crossed out, look below. Note: I use `[ ]` to mean that I have proposed a fix in a PR. I know it doesn't render properly in Markdown, but it works pretty well otherwise for that purpose. If I think that something is fine, even if it isn't valid according to this checklist, I've checked it off and included a note._
+_For notes on anything crossed out, look below. Note: I use `[~]` to mean that I have proposed a fix in a PR. I know it doesn't render properly in Markdown, but it works pretty well otherwise for that purpose. If I think that something is fine, even if it isn't valid according to this checklist, I've checked it off and included a note._
 
 ### Reviewing the Repository Docs
 
 - [ ] Is there a README?
   - [ ] Does it follow [standard-readme](https://github.com/RichardLitt/standard-readme)?
   - [ ] Is it spellchecked?
-- [ ] Is there a Code of Conduct, such as the [Contributor Covenant](https://github.com/simonv3/covgen)?
+- [ ] Is there a Code of Conduct, such as the [Contributor Covenant](https://github.com/simonv3/covenant-generator)?
   - [ ] Is it mentioned in the Contribute section of the README? (Note: this isn't needed if you mention it in your CONTRIBUTE.md and it is in this repository.)
   - [ ] Does it reference an email address for violations?
   - [ ] Does it reference a second email address?
