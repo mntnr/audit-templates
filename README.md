@@ -16,13 +16,16 @@ This will give you a global executable, `audit-templates`.
 
 ## Usage
 
-Provide `audit-templates` with a GitHub repository in the form of `user/reponame` in order to have it print out a template for you.
+Provide `audit-templates` with a GitHub repository in the form of `user/reponame` in order to have it print out a template for you. You can also specify where you want it to be breated.
 
 ```sh
 $ audit-templates mntnr/audit-templates
 Replacing repo name and description...
 Done! Created file audit-templates-audit.md.
+
 $ audit-templates mntnr/audit-templates overthere/yeahhh.md
+Replacing repo name and description...
+Done! Created file yeahhh.md.
 ```
 
 ## Contribute
