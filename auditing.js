@@ -20,8 +20,9 @@ module.exports = async function download (repoName, dest) {
       console.log('Unable to get repository description', err)
     })
 
-    var newContent = res.toString().replace('[INSERT REPONAME]', repoName)
-      .replace('[INSERT GITHUB DESCRIPTION]', description)
+    var newContent = res.toString()
+      .replace(/\[INSERT REPONAME\]/g, repoName)
+      .replace(/\[INSERT GITHUB DESCRIPTION\]/g, description)
 
     await mkdirp(getDirName(dest)).then(async () => {
       fs.writeFile(dest, newContent, 'utf8')
