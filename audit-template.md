@@ -19,7 +19,7 @@ _For notes on anything crossed out, look below. Note: I use `[~]` to mean that I
   - [ ] Is this matched in the `package.json`?
   - [ ] Is the year correct?
 - [ ] Is there a `.github` or `docs` folder?
-  - [ ] Is there an `ISSUE_TEMPLATE.md`?
+  - [ ] Is there an `ISSUE_TEMPLATE.md` or `ISSUE_TEMPLATE` folder ([example](https://github.com/babel/babel/issues/new/choose))?
   - [ ] Is there a `PULL_REQUEST_TEMPLATE.md`?
 - [ ] Is there a `CONTRIBUTING.md` file?
   - [ ] Does it mention how to make a PR?
@@ -34,6 +34,7 @@ _For notes on anything crossed out, look below. Note: I use `[~]` to mean that I
   - [ ] If there isn't, are notes included in the project's releases?
 - [ ] Does this pass [`alex`](https://github.com/wooorm/alex) adequately? Run `alex *.md`.
 - [ ] Does the repository name itself pass on http://wordsafety.com?
+- [ ] Is there a locked updates issue to give users a single place to stay up-to-date without the need to watch the entire repository? ([example](https://github.com/octokit/rest.js/issues/620))
 
 ### Process
 - [ ] Can I install easily?
