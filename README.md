@@ -1,8 +1,5 @@
 # Audit Templates
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/mntnr/audit-templates.svg)](https://greenkeeper.io/)
-[![Build Status](https://api.travis-ci.org/mntnr/audit-templates.svg?branch=master)](https://travis-ci.org/mntnr/audit-templates)
-
 > 🏔 Auditing templates used by Maintainer Mountaineer!
 
 This is where we store our auditing templates. This repo also houses a global npm script which will print out an auditing template, given a GitHub repository.
